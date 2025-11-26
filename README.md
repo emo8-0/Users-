@@ -1,4 +1,4 @@
-أقوى أداة صيد يوزرات 《𝙏𝙞𝙠𝙏𝙤𝙠》 - تصيد لك يوزرات نادرة وقوية  
+# أقوى أداة صيد يوزرات 《𝙏𝙞𝙠𝙏𝙤𝙠》 - تصيد لك يوزرات نادرة وقوية  
 **المطور: ايمو** ✧  
 
 ## ✦ مميزات الأداة ✦
@@ -14,7 +14,7 @@
 
 ### انسخ الأمر والصقه في Termux:
 ```bash
-git clone https://github.com/emo8-0/Users.git
+git clone https://github.com/emo8-0/tiktok-checker.git
 cd tiktok-checker
 pip install -r requirements.txt
 python tiktok_checker.py
